@@ -6,10 +6,10 @@
 
 ## 🚀 About Me  
 - 🎓 Studying **BSc. CSIT** at Mount Annapurna Campus, Tribhuvan University  
-- 💻 Full Stack Developer specializing in **NestJS & Next.js**  
-- 🌱 Currently learning **Kubernetes, AWS, and advanced DevOps**  
+- 💻 Currently working as a **Full Stack Developer** specializing in **NestJS & Next.js**  
+- 🌱 Exploring **Kubernetes, AWS, and advanced DevOps**  
 - 🏗️ Building projects with **microservices & modern web architecture**  
-
+- 🤝 Open to collaborating on **exciting projects, open-source contributions, and innovative ideas**  
 ---
 
 ## 🛠️ Tech Stack  
