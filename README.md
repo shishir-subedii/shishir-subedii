@@ -36,6 +36,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
 
+**ORMs / ODMs**  
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) 
+![TypeORM](https://img.shields.io/badge/TypeORM-FF6C37?logo=typeorm&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)  
+
 **DevOps / Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
@@ -47,8 +52,6 @@
 ---
 
 ## 📊 GitHub Stats  
-
-![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=shishir-subedii&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shishir-subedii&layout=compact&theme=radical)  
 
